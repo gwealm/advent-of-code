@@ -6,7 +6,7 @@ Don't use these solution as reference since they might not be optimal as my main
 
 ## Progress
 
-### [**2023**](aoc-2023) - 10★ / 48★
+### [**2023**](aoc-2023) - 12★ / 48★
 
 ## Structure
 
